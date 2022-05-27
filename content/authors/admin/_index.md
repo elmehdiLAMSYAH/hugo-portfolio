@@ -51,9 +51,6 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/elmehdi_lmsh/
-  - icon : facebook
-    icon_pack: fab
-    link: https://web.facebook.com/mehdi.santana.56/
 # Uncomment below for Github link
   - icon: github
      icon_pack: fab
